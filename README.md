@@ -27,7 +27,7 @@ The objective of this project is to develop a machine learning model that can pr
 ## Machine Learning Algorithms Used
 - Logistic Regression
 - Gradient Boost
-- ACAD Boost
+- ADA Boost
 - Random Forest 
 - Support Vector Machine
 
