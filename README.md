@@ -1,5 +1,4 @@
 
-# Hi, I'm Christy! 👋
 
 
 # House Price Prediction
@@ -25,7 +24,7 @@ The objective of this project is to develop a machine learning model that can pr
 - Jupyter Notebook: Interactive environment for running the analysis.
 
 ## Machine Learning Algorithms Used
-- Logistic Regression
+- Linear Regression
 - Gradient Boost
 - ADA Boost
 - Random Forest 
